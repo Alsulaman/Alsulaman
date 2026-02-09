@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 - 🎓 **Cybersecurity Student** at Majmaah University[cite: 29, 30, 70].
--💡 **Entrepreneur of the Year** at Majmaah University (2024-2025)[cite: 9, 42, 246, 251].
--🌍 Completed a **Digital Technology & Sustainability** program at the University of East Anglia, UK[cite: 33, 35, 78].
--💼 Experienced in **Business Incubation** and leading innovation clubs[cite: 12, 19, 102, 127].
-- 🛠️ Passionate about building secure, innovative tech solutions that bridge the gap between ideas and reality[cite: 55, 56].
+- [cite_start]💡 **Entrepreneur of the Year** at Majmaah University (2024-2025)[cite: 9, 42, 246, 251].
+- [cite_start]🌍 Completed a **Digital Technology & Sustainability** program at the University of East Anglia, UK[cite: 33, 35, 78].
+- [cite_start]💼 Experienced in **Business Incubation** and leading innovation clubs[cite: 12, 19, 102, 127].
+- [cite_start]🛠️ Passionate about building secure, innovative tech solutions that bridge the gap between ideas and reality[cite: 55, 56].
 
 ---
 
@@ -27,17 +27,17 @@
 </p>
 
 ### 🚀 Entrepreneurship & Innovation
--✨ **Incubation Management**: Managed 17+ student startups[cite: 15].
--🏆 **Hackathon Leader**: Organized and participated in 11+ local hackathons[cite: 42, 104, 129].
--🏗️ **Project Founder**: Behind projects like **Muthlthat** (Media Production) and **Mutanafes** (Graduates Platform)[cite: 152, 157, 158].
+- [cite_start]✨ **Incubation Management**: Managed 17+ student startups[cite: 15].
+- [cite_start]🏆 **Hackathon Leader**: Organized and participated in 11+ local hackathons[cite: 42, 104, 129].
+- [cite_start]🏗️ **Project Founder**: Behind projects like **Muthlthat** (Media Production) and **Mutanafes** (Graduates Platform)[cite: 152, 157, 158].
 
 ---
 
 ## 🏆 Certifications & Achievements
--🥇 **Entrepreneur of the Year** - Majmaah University[cite: 9, 245, 250].
--🥉 **3rd Place** - Monsha'at Hackathon (14,000 SAR Prize)[cite: 42, 240, 241, 253].
--📜 **AWS Cloud Computing Certificate**[cite: 32, 41, 81].
--🛡️ **IBM Cybersecurity Tools & Cyberattacks**[cite: 83].
+- [cite_start]🥇 **Entrepreneur of the Year** - Majmaah University[cite: 9, 245, 250].
+- [cite_start]🥉 **3rd Place** - Monsha'at Hackathon (14,000 SAR Prize)[cite: 42, 240, 241, 253].
+- [cite_start]📜 **AWS Cloud Computing Certificate**[cite: 32, 41, 81].
+- [cite_start]🛡️ **IBM Cybersecurity Tools & Cyberattacks**[cite: 83].
 
 ---
 
